@@ -16,7 +16,7 @@ bg: setFillColor (0,0,0)
 local ship = display.newImage ("space.png")
 ship.x = width / 2
 ship.y = height / 2
-
+--hellllllloooooo
 local count = 0 
 
 local max = 12
@@ -63,7 +63,7 @@ local function aim (event)
 		bullet.type = "bullet"
  	end
 end
-
+---hellloooooooooo
 bg: addEventListener( "touch", aim)
 local function createso() 
 
